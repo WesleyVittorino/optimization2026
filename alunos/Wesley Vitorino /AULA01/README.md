@@ -1,2 +1,1 @@
-Diretório criado para submeter as atividades da disciplna Otimização
-T01
+Diretório criado para submeter as atividades da disciplna Otimização.
